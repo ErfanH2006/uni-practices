@@ -1,0 +1,15 @@
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.AssemblyInfoInputs.cache
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.AssemblyInfo.cs
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.sourcelink.json
+/home/erfan/cSharp/Length/bin/Debug/net8.0/length
+/home/erfan/cSharp/Length/bin/Debug/net8.0/length.deps.json
+/home/erfan/cSharp/Length/bin/Debug/net8.0/length.runtimeconfig.json
+/home/erfan/cSharp/Length/bin/Debug/net8.0/length.dll
+/home/erfan/cSharp/Length/bin/Debug/net8.0/length.pdb
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.dll
+/home/erfan/cSharp/Length/obj/Debug/net8.0/refint/length.dll
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.pdb
+/home/erfan/cSharp/Length/obj/Debug/net8.0/length.genruntimeconfig.cache
+/home/erfan/cSharp/Length/obj/Debug/net8.0/ref/length.dll
