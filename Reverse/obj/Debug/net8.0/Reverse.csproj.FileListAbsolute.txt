@@ -1,0 +1,15 @@
+/home/erfan/cSharp/Reverse/bin/Debug/net8.0/Reverse
+/home/erfan/cSharp/Reverse/bin/Debug/net8.0/Reverse.deps.json
+/home/erfan/cSharp/Reverse/bin/Debug/net8.0/Reverse.runtimeconfig.json
+/home/erfan/cSharp/Reverse/bin/Debug/net8.0/Reverse.dll
+/home/erfan/cSharp/Reverse/bin/Debug/net8.0/Reverse.pdb
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.AssemblyInfoInputs.cache
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.AssemblyInfo.cs
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.sourcelink.json
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.dll
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/refint/Reverse.dll
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.pdb
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/Reverse.genruntimeconfig.cache
+/home/erfan/cSharp/Reverse/obj/Debug/net8.0/ref/Reverse.dll
