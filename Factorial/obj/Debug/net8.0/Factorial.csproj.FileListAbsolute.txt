@@ -1,0 +1,15 @@
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.AssemblyInfoInputs.cache
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.AssemblyInfo.cs
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.sourcelink.json
+/home/erfan/cSharp/Factorial/bin/Debug/net8.0/Factorial
+/home/erfan/cSharp/Factorial/bin/Debug/net8.0/Factorial.deps.json
+/home/erfan/cSharp/Factorial/bin/Debug/net8.0/Factorial.runtimeconfig.json
+/home/erfan/cSharp/Factorial/bin/Debug/net8.0/Factorial.dll
+/home/erfan/cSharp/Factorial/bin/Debug/net8.0/Factorial.pdb
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.dll
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/refint/Factorial.dll
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.pdb
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/Factorial.genruntimeconfig.cache
+/home/erfan/cSharp/Factorial/obj/Debug/net8.0/ref/Factorial.dll
