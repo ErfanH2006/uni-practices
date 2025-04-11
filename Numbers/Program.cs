@@ -60,7 +60,7 @@ namespace MyApp
 
                                                                             // Get 20 numbers and return the average
 
-            int[] number = new int[20];
+            /*int[] number = new int[20];
             int sum = 0 ;
             double average;
 
@@ -78,7 +78,7 @@ namespace MyApp
 
             average = (double)sum / number.Length;
 
-            Console.WriteLine($"The average og the numbers is: {average}");
+            Console.WriteLine($"The average og the numbers is: {average}");*/
 
 
 
