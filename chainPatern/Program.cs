@@ -30,13 +30,29 @@ namespace MyApp
             int number2 = Convert.ToInt32(Console.ReadLine());
             double sum = 0;
 
-                for (int i = 1; i < number; i++)
+                for (int i = 1; i < number2; i++)
                 {
                     sum += 1.0 / i; 
                 }
                 Console.WriteLine($"The result is {sum}");
 
-                Console.ReadKey();
+
+
+                                                // The divisors and sum of number N are . . .
+
+            Console.WriteLine("Enter the number");
+            int number3 = Convert.ToInt32(Console.ReadLine());
+            int sum2 = 0;
+
+            for (int i = 1; i < number3; i++)
+            {
+                if (number3 % i == 0)
+                {
+                    Console.WriteLine($"The divisors is {i}");
+                    sum2 += i;
+                }
+            }
+            Console.WriteLine($"The sum of divisorses is {sum2}");
         }
         
     }
