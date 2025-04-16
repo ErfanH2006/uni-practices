@@ -1,0 +1,15 @@
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.AssemblyInfoInputs.cache
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.AssemblyInfo.cs
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.sourcelink.json
+/home/erfan/cSharp/chainPatern/bin/Debug/net8.0/chainPatern
+/home/erfan/cSharp/chainPatern/bin/Debug/net8.0/chainPatern.deps.json
+/home/erfan/cSharp/chainPatern/bin/Debug/net8.0/chainPatern.runtimeconfig.json
+/home/erfan/cSharp/chainPatern/bin/Debug/net8.0/chainPatern.dll
+/home/erfan/cSharp/chainPatern/bin/Debug/net8.0/chainPatern.pdb
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.dll
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/refint/chainPatern.dll
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.pdb
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/chainPatern.genruntimeconfig.cache
+/home/erfan/cSharp/chainPatern/obj/Debug/net8.0/ref/chainPatern.dll
