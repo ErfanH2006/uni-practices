@@ -1,0 +1,15 @@
+/home/erfan/cSharp/SymmetricNumbers/bin/Debug/net8.0/SymmetricNumbers
+/home/erfan/cSharp/SymmetricNumbers/bin/Debug/net8.0/SymmetricNumbers.deps.json
+/home/erfan/cSharp/SymmetricNumbers/bin/Debug/net8.0/SymmetricNumbers.runtimeconfig.json
+/home/erfan/cSharp/SymmetricNumbers/bin/Debug/net8.0/SymmetricNumbers.dll
+/home/erfan/cSharp/SymmetricNumbers/bin/Debug/net8.0/SymmetricNumbers.pdb
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.AssemblyInfoInputs.cache
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.AssemblyInfo.cs
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.sourcelink.json
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.dll
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/refint/SymmetricNumbers.dll
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.pdb
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/SymmetricNumbers.genruntimeconfig.cache
+/home/erfan/cSharp/SymmetricNumbers/obj/Debug/net8.0/ref/SymmetricNumbers.dll
