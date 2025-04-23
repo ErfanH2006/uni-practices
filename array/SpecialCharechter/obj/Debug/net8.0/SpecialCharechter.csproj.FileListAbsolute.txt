@@ -1,0 +1,15 @@
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.AssemblyInfoInputs.cache
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.AssemblyInfo.cs
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.sourcelink.json
+/home/erfan/cSharp/array/SpecialCharechter/bin/Debug/net8.0/SpecialCharechter
+/home/erfan/cSharp/array/SpecialCharechter/bin/Debug/net8.0/SpecialCharechter.deps.json
+/home/erfan/cSharp/array/SpecialCharechter/bin/Debug/net8.0/SpecialCharechter.runtimeconfig.json
+/home/erfan/cSharp/array/SpecialCharechter/bin/Debug/net8.0/SpecialCharechter.dll
+/home/erfan/cSharp/array/SpecialCharechter/bin/Debug/net8.0/SpecialCharechter.pdb
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.dll
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/refint/SpecialCharechter.dll
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.pdb
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/SpecialCharechter.genruntimeconfig.cache
+/home/erfan/cSharp/array/SpecialCharechter/obj/Debug/net8.0/ref/SpecialCharechter.dll
