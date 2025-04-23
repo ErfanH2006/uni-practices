@@ -9,7 +9,7 @@ namespace MyApp
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("===== Array & Student Exercises =====");
+                Console.WriteLine("===== Array Exercises =====");
                 Console.WriteLine("Select an exercise to run:");
                 Console.WriteLine("1. Determine if a specific number exist in an array");
                 Console.WriteLine("2. Remove a specefic number from an array (it also include copy an array)");
