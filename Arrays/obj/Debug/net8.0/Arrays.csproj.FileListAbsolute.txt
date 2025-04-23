@@ -1,0 +1,15 @@
+/home/erfan/cSharp/Arrays/bin/Debug/net8.0/Arrays
+/home/erfan/cSharp/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/erfan/cSharp/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/erfan/cSharp/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/erfan/cSharp/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/erfan/cSharp/Arrays/obj/Debug/net8.0/ref/Arrays.dll

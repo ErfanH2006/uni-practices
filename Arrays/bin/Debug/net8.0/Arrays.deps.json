@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "SpecialCharechter/1.0.0": {
+      "Arrays/1.0.0": {
         "runtime": {
-          "SpecialCharechter.dll": {}
+          "Arrays.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SpecialCharechter/1.0.0": {
+    "Arrays/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

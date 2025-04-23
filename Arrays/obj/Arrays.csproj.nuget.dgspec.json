@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/erfan/cSharp/array/SpecialCharechter/SpecialCharechter.csproj": {}
+    "/home/erfan/cSharp/Arrays/Arrays.csproj": {}
   },
   "projects": {
-    "/home/erfan/cSharp/array/SpecialCharechter/SpecialCharechter.csproj": {
+    "/home/erfan/cSharp/Arrays/Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/erfan/cSharp/array/SpecialCharechter/SpecialCharechter.csproj",
-        "projectName": "SpecialCharechter",
-        "projectPath": "/home/erfan/cSharp/array/SpecialCharechter/SpecialCharechter.csproj",
+        "projectUniqueName": "/home/erfan/cSharp/Arrays/Arrays.csproj",
+        "projectName": "Arrays",
+        "projectPath": "/home/erfan/cSharp/Arrays/Arrays.csproj",
         "packagesPath": "/home/erfan/.nuget/packages/",
-        "outputPath": "/home/erfan/cSharp/array/SpecialCharechter/obj/",
+        "outputPath": "/home/erfan/cSharp/Arrays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/erfan/.nuget/NuGet/NuGet.Config"
