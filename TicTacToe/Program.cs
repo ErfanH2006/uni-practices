@@ -14,8 +14,8 @@ class Program
 
     static void Main(string[] args)
     {
-        
-        ConsoleColor[] colors = (ConsoleColor[]) ConsoleColor.GetValues(typeof(ConsoleColor));
+
+        ConsoleColor[] colors = (ConsoleColor[])ConsoleColor.GetValues(typeof(ConsoleColor));
         while (true)
         {
             Console.Clear();
@@ -102,29 +102,31 @@ class Program
             if (board[i, 0] == currentPlayer &&
                 board[i, 1] == currentPlayer &&
                 board[i, 2] == currentPlayer)
+            {
                 return true;
-        }
-
-
-        for (int i = 0; i < 3; i++)
-        {
-            if (board[0, i] == currentPlayer &&
+            }
+            else if (
+                board[0, i] == currentPlayer &&
                 board[1, i] == currentPlayer &&
                 board[2, i] == currentPlayer)
+            {
                 return true;
+            }
+            else if (
+                board[0, 0] == currentPlayer &&
+                board[1, 1] == currentPlayer &&
+                board[2, 2] == currentPlayer)
+            {
+                return true;
+            }
+            else if (
+                board[0, 2] == currentPlayer &&
+                board[1, 1] == currentPlayer &&
+                board[2, 0] == currentPlayer)
+            {
+                return true;
+            }
         }
-
-
-        if (board[0, 0] == currentPlayer &&
-            board[1, 1] == currentPlayer &&
-            board[2, 2] == currentPlayer)
-            return true;
-
-        if (board[0, 2] == currentPlayer &&
-            board[1, 1] == currentPlayer &&
-            board[2, 0] == currentPlayer)
-            return true;
-
         return false;
     }
 }
